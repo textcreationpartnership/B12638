@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acte for the prouision and relief of the poore.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12638</idno><idno type="EEBO-CITATION">99892541</idno>
+  <idno type="VID">188868</idno>
+  <idno type="EEBO-PROQUEST">2248564972</idno>
+  
+            <idno type="STC">STC 7844.6</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[15]</idno>
+            <idno type="PROQUEST">ocm99892541</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892541e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188868)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acte for the prouision and relief of the poore.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>Richardus Graftonus, typographus Regius excudebat,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Mense Aprilis. Anno M.D LII. [1552].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place of publication from STC.</note>
+                  <note>At end of text: Cum priuilegio ad imprimendum solum.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poor laws --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:188868:1"/>
+            <head>¶ An Acte for the prouision and relief of the Poore.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O thentent that valiaunt beggers, ydle, and loiteryng personnes, may be auoided, and the impotent, feble, and lame, prouided for whiche are poore in very diede: <hi>BE IT</hi> enacted by the Kyng our souereigne lord, with the assent of the Lordes Spiritual, and Tem<g ref="char:EOLhyphen"/>poral, and the communes in this present Parlament assembled, and by aucthoritie of the same, that aswel the statute made in the .xxij. yere of the late Kyng of famous memorie Kyng Henry the .viij. as also the statute made in the thirde, and fourth yeare of the reigne of the Kynges Maiestie, that now is, concernyng beggers, vagaboundes, &amp; ydle personnes, &amp; euery arti<g ref="char:EOLhyphen"/>cle, clause, braunche, sentence, and other thynges conteined in them, &amp; in euery of them (other then suche thynges, as shalbe by this present Acte ordeyned, and prouided for) shal stand, remaine, &amp; be in their ful force, and effecte, and shalbe from hencefutth iustly, and truely, putte in execucion, accordyng to the true meanyng of the said seueral statutes, and euery of them.</p>
+            <p>And further, be it enacted by the aucthoritie aforesaied, that yearely, one holie daie in Whiteson weke, in euery Citie, Borough, and Towne corporate, the Maiour, Bailifes, or other heade officers for the tyme beyng: And in euery other Parishe of the countrie, the personne, vicar, or curate, and the Churchewardeins (hauyng in a Regester, or Booke, aswel al the names of the enhabitantes, and hous<g ref="char:EOLhyphen"/>holders, as also the names of al suche impotent, aged and neadie persons, as beyng within their Ci<g ref="char:EOLhyphen"/>tie, Borough, Towne corporate, or Parishe, are not able to lyue of them selues, nor with their owne labour,) shal openly in the Churche, and quietly, after diuine seruice, cal the saide housholders and en<g ref="char:EOLhyphen"/>habitantes together. Among whom the Maiour, and two of his brethren in euery Citie, the Bailifes, or other head officers in Boroughes▪ and Townes corporate, the person, vicate, or Curate, and Chur<g ref="char:EOLhyphen"/>chewardeins in euery other Parishe: shal elect, nominate, and appoint yerely, two able persons, or mo, to be gatherers, and collectours of the charitable almose of all the residue of the people, for the relief of the poore. Whiche collectours the Sondaie next after their election, (or the Sondaie folowyng, yf niede require) when the people is at the Churche, and hath heard Goddes holy worde, shal gently aske, and demande of euery man, and woman, what thei of their charitie wilbe contented to geue wekely, to<g ref="char:EOLhyphen"/>warde the relief of the poore. And the same to be written in the saied Register, or Booke. And the said gatherers, so beyng elected, and chosen, shal iustly gather, and truely distribute the same charitable almose wekelie (by them selues or their assignes) to the said poore, and impotent persons of the said Ci<g ref="char:EOLhyphen"/>ties, Boroughes, Townes corporate, or Parishes, without fraude, or couine, fauour, or affection. And after suche sorte, that the more impotent may haue the more helpe: and suche, as can gette parte of their liuyng to haue the lesse. And by the discrecion of the collectours to be putte in suche labour, as thei be fitte, and able to do, but none to go, or sitte openly a beggyng, vpon paine limitted in the afore saied Statutes.</p>
+            <p>Be it also enacted by thauthoritie afore said, that no person, or personnes, so elected, nominated, and appointed to be gatherer, or gatherers, as is afore said, shal refuse thesaid office, but shal iustly, and truely execute the same, by the space of one whole yere next ensuyng, vpon peine of forfeityng .xx. s̄. to the almose boxe of the poore, to be leuied by the Churchewardeins, where thei, or he dwelleth. of the goodes of the said gatherer, or gatherers, so refusyng, by distresse.</p>
+            <pb facs="tcp:188868:2"/>
+            <pb facs="tcp:188868:2"/>
+            <p>And further, be it enacted by the aucthoritie afore said, that the saied gatherers, or collectours, shal make there iust accompte quarterlie, to the Maiour of the Citie, Bailifes, or head officers of the Bo<g ref="char:EOLhyphen"/>rough, or Towne corporate: And in euery Parishe of the countrie, to the person, vicare, or curate, and Churchewardeins of the Par<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>he. At whiche accompte, such of the Parishe, as wil, may be present. And when thei go out of their office, thei shal deliuer, or cause to be deliuered, furthwith vpō thende of their accomptes, al suche surplusage of monie as then shal remaine of their collection vndistributed, to be put in the common cheste of the Churche, or in some other saufe place, to the vse of the poore, at the ouer sight, and discrecion of the said Maiour, or other the officers before mencioned. And if the saied collec<g ref="char:EOLhyphen"/>tours, or any of them, do refuse to make their saied accompte, within .viij. daies: then the Bishop of the Dioces, or ordinarie, shal haue aucthoritie by vertue of this acte, to compelle the said person, or perso<g ref="char:EOLhyphen"/>nes, by Censures of the Churche, to make their saied accomptes, before suche persones as the saied Bishop, or ordinarie, shal appointe.</p>
+            <p>And be it further enacted, by thaucthoritie aforesaid, that if any person, or persones, beyng able to further this charitable worke, do obstinatly, and frowardly refuse to geue towardes the helpe of the poore, or do wilfully discourage other frō so charitable a diede: the person, vicare, or curate, and Chur<g ref="char:EOLhyphen"/>chewardeins, of the Parishe wherin he dwelleth, shal gently exhort hym, or them, towardes the relief of the poore. And if he, or thei, wil not so be persuaded, then vpon the certificat of the person, vicare, or curate of the Parishe, to the Bishop of the Dioces, the same Bishop shal sende for hym, or them, to in<g ref="char:EOLhyphen"/>duce, and persuade hym, or them, by charitable waies, and meanes. And so accordyng to his discrecion, to take order for the reformacion therof.</p>
+            <p>And for the better maintenaunce of this charitable worke, it is ordeined, and established by auc<g ref="char:EOLhyphen"/>thoritie aforesaid, that where as the late Kyng, of famous memorie, Kyng Henry the .viij. by his seue<g ref="char:EOLhyphen"/>ral erections and foundacions, hath ordeined and appointed, any somme, or sommes of money to the vse of the poore (not beyng taken away otherwyse by Acte of Parlament) whether the same be in any Cathedral Churche, college, or els where: The Bishoppe of the Dioces for the tyme beyng, shall from tyme to tyme, examine, how, and after what maner, thesaid money is bestowed, and cal to accompte the parties whiche reteine thesaid money, so that it may appere that the same is distributed to the poore, accordyng to the Kynges Maiesties foundacion.</p>
+            <p>Prouided alwaies, and be it further enacted by thaucthoritie aforesaid, that this present Acte, nor any thyng therin conteined, shal extende, or be preiudicial vnto the Maiour, Shereues, &amp; citezeins, of the citie of Chestre, for, or concernyng any gifte, or graunte, of any annuitie, or yearely rente, heretofore made, geuen, or graunted by the Kynges Maiestie that now is, vnto the said Maiour Shiereues, and Citezeins, of thesaid Citie, goyng out of any Manours, Londes, tenementes, and hereditamentes of the Cathedrale Churche of Christe, and our Ladie, within the Citie of Chestre, but that the same Maiour, Shiereues, &amp; Citezeins, shal, &amp; may, from henceforth, receiue, vse, &amp; employ, the same aucthorities, yere<g ref="char:EOLhyphen"/>ly rentes, or profectes, to suche vses, and ententes, and accordyng to thesaid gifte of our souereigne Lorde the Kyng, any thyng in this present Acte to the contrary, notwithstandyng. This Acte to en<g ref="char:EOLhyphen"/>dure to thende of the first session, of the next Parlamente.</p>
+            <trailer>¶ God saue the Kyng.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>RICHARDVS GRAFTONVS, typographus Regius excudebat. <hi>Mense Aprilis.</hi> Anno M.D LII.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
